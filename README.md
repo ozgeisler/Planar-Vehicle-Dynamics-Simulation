@@ -1,6 +1,6 @@
 # Planar-Vehicle-Dynamics-Simulation
 
-A from-scratch implementation of a 2D planar vehicle (boat) dynamics model in MATLAB and Simulink, based on classical control theory principles.
+A from-scratch implementation of a 2D planar vehicle dynamics model in MATLAB and Simulink, based on classical control theory principles.
 
 ---
 
