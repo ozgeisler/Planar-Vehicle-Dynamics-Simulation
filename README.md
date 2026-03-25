@@ -5,7 +5,7 @@ A from-scratch implementation of a 2D planar vehicle (boat) dynamics model in MA
 ---
 
 
-This project models the equations of motion (EOM) of a planar vehicle (boat) with rotational thrusters. The model simulates translational and rotational dynamics using Newton's second law, and visualizes the vehicle's trajectory and states over time.
+This project models the equations of motion of a planar vehicle with rotational thrusters. The model simulates translational and rotational dynamics using Newton's second law, and visualizes the vehicle's trajectory and states over time.
 
 Built entirely from scratch — no pre-built library blocks used.
 
